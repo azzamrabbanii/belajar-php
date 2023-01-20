@@ -27,7 +27,7 @@
     print_r($result);
     echo '<br>';
     
-    $implode2 = implode('? ', $result);
+    $implode2 = implode('! ', $result);
     print_r($implode2);
 
 ?>
